@@ -1,2 +1,1 @@
-# react-udemy-clon
-react app like udemy
+<h1 align="center">Education Platform 👨‍🏫</h1>
